@@ -1673,14 +1673,6 @@ export default function App() {
         </div>
 
         <div className="nav-right">
-          <a
-            href="/stride.html"
-            download="stride.html"
-            className="chip-off"
-            style={{ textDecoration: 'none' }}
-          >
-            下载 HTML
-          </a>
           <button
             type="button"
             className="chip-off"
